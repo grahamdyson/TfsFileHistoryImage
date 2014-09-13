@@ -1,7 +1,5 @@
-TfsFileHistoryImage
-===================
-
 Animated GIF of a files TFS history
+===================================
 
 When working in an established code base sometimes your forced to bear witness to multi-thousand line source code files. What story could the file tell, back to when it was first added, did it gradually mutate into the beast it is today, are there imprints of any heavy footed steps and did anyone try take the reins?
 
